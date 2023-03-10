@@ -1,0 +1,49 @@
+/* CSS RESET */
+* {
+  padding: 0;
+  margin: 0;
+  vertical-align: baseline;
+  list-style: none;
+  border: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Global */
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #111111;
+  font-size: 100%;
+}
+
+.container {
+  box-sizing: border-box;
+  max-width: 1200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titulo {
+  font-size: 48px;
+  margin: 32px 0px;
+}
+
+.introducao.texto {
+  margin: 20px 0px;
+}
+
+.botao {
+  display: inline-block;
+  border-radius: 4px;
+  color: #320;
+  background-image: linear-gradient(#ffbf00, #f2a50c);
+  padding: 16px 32px;
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}

@@ -1,0 +1,14 @@
+@import "./global.css";
+
+/* Utilidades  */
+@import "./cores.css";
+@import "./tipografia.css";
+@import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
+
+/* Header e footer */
+@import "./header.css";
+@import ".footer.css";
+
+/* introdução */
+@import "./introducao.css";

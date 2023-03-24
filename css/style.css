@@ -10,7 +10,7 @@
 @import "./global/header.css";
 @import "./global/footer.css";
 
-/* introdução */
+/* introducao */
 @import "./home/introducao.css";
 
 /* Bicicletas */
@@ -19,3 +19,10 @@
 
 /* Tecnologia */
 @import "./home/tecnologia.css";
+
+/* parceiros e depoimento */
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+
+/* seguros */
+@import "./home/seguros.css";

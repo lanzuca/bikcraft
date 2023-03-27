@@ -8,6 +8,7 @@
   color: #320;
   background-image: linear-gradient(#ffbf00, #f2a50c);
   max-width: max-content;
+  cursor: pointer;
 }
 .botao:hover {
   background-image: linear-gradient(#ffb60d, #e59317);

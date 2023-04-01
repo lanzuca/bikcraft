@@ -43,7 +43,8 @@
     grid-template-columns: 1fr;
   }
   .introducao-conteudo {
-    padding-bottom: 32px;
+    padding-bottom: 28px;
+    padding-top: 32px;
   }
   .introducao h1 {
     margin-bottom: 16px;

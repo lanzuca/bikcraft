@@ -59,3 +59,9 @@
   background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
   margin-bottom: 20px;
 }
+
+@media (max-width: 800px) {
+  #bicicletas .titulo {
+    background: none;
+  }
+}

@@ -65,9 +65,11 @@
 @media (max-width: 800px) {
   .bicicletas {
     grid-template-columns: 1fr;
+    background: none;
   }
   .bicicletas-conteudo {
     grid-template-columns: 1fr;
+    background: none;
   }
   .bicicletas .botao.seta {
     margin-top: 20px;
